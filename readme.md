@@ -1,0 +1,1 @@
+Para a criação do SCRIPT foi utilizado no lugar do comando -crypt para criptografar a senha o comando $(openssl passwd -1), que utiliza a criptografia MD5 pois a versão do meu ubuntu server era diferente.
